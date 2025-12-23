@@ -1,0 +1,7 @@
+{
+  "name": "Merry Christmas",
+  "description": "A high-fidelity, cinematic 3D interactive Christmas experience featuring a dual-coordinate particle system, luxury aesthetics, and gesture-based interaction concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
